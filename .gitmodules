@@ -1,0 +1,6 @@
+[submodule "tools"]
+	path = tools
+	url = https://github.com/golang/tools
+[submodule "src/golang.org/x"]
+	path = src/golang.org/x
+	url = https://github.com/golang/tools
